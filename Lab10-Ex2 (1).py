@@ -2,7 +2,7 @@
 """
 Created on Tue Jul  6 16:06:09 2021
 
-@author: lujua
+@author: mohammadbasiruddin
 """
 
 #Lab10-Ex2
